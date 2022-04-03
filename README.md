@@ -6,5 +6,5 @@ InfoGAN-Structure
 InfoGAN-Structure + developed  
 ACGAN
 
-models are adapted to work within 64 x 64 image size  
+models are adapted to work with 64 x 64 image size  
 all models are conditional GAN in labels of masked or not, which is 1 or 0
